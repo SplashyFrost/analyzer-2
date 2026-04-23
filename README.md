@@ -7,37 +7,8 @@ Filtering positive numbers
 Identification of numbers above the average
 Dynamic user input management
 Modular and easily extendable structure
-🧠 Objective
 
-This project is designed to:
-
-improve Python basics
-understand how to work with lists and loops
-begin reasoning algorithmically
-📦 Project Structure
-number-analyzer/
-│── main.py
-│── README.md
-⚙️ Installation
-
-Make sure you have Python installed:
-
-python3 --version
-
-Clone the project:
-
-git clone https://github.com/your-username/number-analyzer.git
-cd number-analyzer
 ▶️ Usage
-
-Run the program:
-
-python3 main.py
-
-Enter numbers one at a time.
-You can exit by typing:
-
-exit
 💻 Example
 
 Input:
